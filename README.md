@@ -1,17 +1,18 @@
 ### Hi there! I'm Ellen 👋🏼
 #### Meet my main academic projects:
-- [Project 1](link-to-project1): Computer vision using the MobileNet neural network
-- [Project 2](link-to-project2): Data analysis with a prediction model (data science)
-- [Project 3](link-to-project3): Prototype of an application developed with React Native, and backend in Java
-- [Project 4](link-to-project4): Prototype of an application using JavaScript, HTML, and CSS
+- [Computer vision](https://github.com/insper-classroom/robotica-aps-23-1-carlosepy.git) using the MobileNet neural network
+- [Data analysis with a prediction model](https://github.com/ellencoutinho/MovimentacaoDolar.git)
+- [Prediction with multiple variables: Will patient X from the COVID-19 database be intubated?](https://github.com/insper-classroom/22-2b-cd-p2-ellen_alexia.git)
+- Prototype of an [application developed with React Native](https://github.com/desagil-2023-1/projeto1-b1-frontend.git), and [backend](https://github.com/desagil-2023-1/projeto1-b1-backend.git) in Java
+- Prototype of an [application using JavaScript, HTML, and CSS](https://github.com/ellencoutinho/FisyApp.git)
   
 The content of my contributions is mostly in Portuguese due to my involvement in Brazilian teams. Below you can see some statistics of my profile and technologies I have worked with — feel welcome!😊
 
 <div align="center">
   <a href="https://github.com/ellencoutinho">
   <hr>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellencoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencoutinho&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ellencoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencoutinho&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <br>
